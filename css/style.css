@@ -196,3 +196,22 @@ hr {
   color: #fafafa;
   margin-bottom: 20px;
 }
+
+footer {
+  height: 150px;
+  margin-top: 75px;
+}
+
+#icons {
+  text-align: center;
+}
+
+#icons li {
+  display: inline;
+  font-size: 30px;
+  margin: 0 40px;
+}
+
+#icons a {
+  color: #777;
+}
