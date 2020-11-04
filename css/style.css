@@ -232,7 +232,7 @@ footer {
 @media screen and (max-width: 1175px) {
   #club-ethos {
     width: 65%;
-    height: 1150px;
+    height: 1000px;
     margin: 0 auto;
   }
 
@@ -330,8 +330,12 @@ footer {
   }
 
   footer {
-    height: 100px;
+    height: 70px;
     margin-top: 30px;
+  }
+
+  #photos {
+    column-count: 2;
   }
   
 }
