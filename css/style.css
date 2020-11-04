@@ -172,3 +172,27 @@ hr {
   height: 100%;
   border-radius: 50%;
 }
+
+#times {
+  height: 300px;
+  background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png") no-repeat center center;
+  width: 100%;
+  overflow: hidden;
+}
+
+#times div {
+  color: #fafafa;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 18.8%;
+  height: 300px;
+  float: left;
+  padding: 30px 5px 0;
+  text-align: center;
+  margin: 2px;
+  line-height: 30px;
+}
+
+#times h2 {
+  color: #fafafa;
+  margin-bottom: 20px;
+}
