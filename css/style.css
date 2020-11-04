@@ -215,3 +215,14 @@ footer {
 #icons a {
   color: #777;
 }
+
+#photos {
+  clear: both;
+  line-height: 0;
+  column-count: 4;
+  column-gap: 0;
+}
+
+#photos img {
+  width: 100%;
+}
