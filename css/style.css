@@ -393,6 +393,30 @@ footer {
   #photos {
     column-count: 2;
   }
+
+  .form-section {
+    clear: both;
+    height: 600px;
+  }  
+
+  .signup-form {
+    margin: 100px 0;
+    padding:15px;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    width: 300px;
+    position: absolute;
+    left: 5%;
+  }  
+
+  .text-input {
+    width: 90%;
+    height: 25px;
+    margin: 5px 0 25px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    outline: none;
+  }
   
 }
 
